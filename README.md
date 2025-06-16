@@ -29,7 +29,7 @@ As I mentioned put excel file in same dir as program for best results.
 
 
 
-If you do you can just copy path and put where you need the path in the prompt.
+If you do, you can just copy path and put where you need the path in the prompt.
 
 
 
@@ -37,7 +37,7 @@ If you do you can just copy path and put where you need the path in the prompt.
 
 
 
-When dont it will say Finished with the info it used for shhet and columns for debugging purposes.
+When done it will say Finished with the info it used for sheet and columns for debugging purposes.
 scroll up a bit and you should also see the name it gave to your graph pic.
 
 
@@ -68,6 +68,7 @@ It will save your chart as a png file.
 
 
 
+One thing you may want to do is give your excel sheet a custom name, sometimes it has issues if you dont.
 
 I have included my test excel file for testing.
 
@@ -76,8 +77,8 @@ I have included my test excel file for testing.
 TEST PROMPTS:
 Here are the prompts I used so it works. Change the items in quotation marks for your needs.
 
-I need to create a line graph from an excel file located at "your path here". Use sheet name 'Your sheet name", x axis use column 'column for data" and for y axis use column "other column for data".
+I need to create a line graph from an excel file located at "your path here". Use sheet name 'Your excel sheet name", x axis use column 'column for data" and for y axis use column "other column for data".
 
-I need to create a scatter plot from an excel file located at "your path here". Use sheet name 'Your sheet name", x axis use column 'column for data" and for y axis use column "other column for data"
+I need to create a scatter plot from an excel file located at "your path here". Use sheet name 'Your excel sheet name", x axis use column 'column for data" and for y axis use column "other column for data"
 
-I need to create a bar graph from an excel file located at "your path here". Use sheet name 'Your sheet name", x axis use column 'column for data" and for y axis use column "other column for data"
+I need to create a bar graph from an excel file located at "your path here". Use sheet name 'Your excel sheet name", x axis use column 'column for data" and for y axis use column "other column for data"
